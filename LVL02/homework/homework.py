@@ -12,4 +12,4 @@ h = "hello"
 w = "world"
 print(h + w)
  
-10>5
+print(10>5)
